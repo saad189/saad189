@@ -16,6 +16,7 @@
 
 <br />
 
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -24,11 +25,12 @@
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Visual Studios" width="26px" src="https://user-images.githubusercontent.com/49253963/148598535-df1cc8f2-4b80-42cd-8d1e-903640817d57.png"/>
-
+<img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/49253963/148599068-67328b8c-f4c7-4f16-8665-37382385cc0a.png"/>
+<img align="left" alt="C#" width="26px" src="https://user-images.githubusercontent.com/49253963/148598535-df1cc8f2-4b80-42cd-8d1e-903640817d57.png"/>
+<img align="left" alt="TypeScript" width="26px" src="https://user-images.githubusercontent.com/49253963/148599157-c5351d3e-8f88-427f-bcad-98b2b4ecf757.png"/>
+<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/49253963/148599111-52c6fa17-d18c-4400-ba48-34a01e542f65.png"/>
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
