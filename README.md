@@ -16,7 +16,6 @@
 
 <br />
 
-![Visual-Studio-Logo]()
 
 ### Languages and Tools:
 
