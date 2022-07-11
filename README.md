@@ -1,6 +1,6 @@
 ### Hello, I am Saad Ahmed👋
 
-## I'm a Student, Content Creator and a Software Engineer
+## I'm a Software Engineer and a Content Creator!
 
 - 🔭 I am currently working on a personal project: [Scientists&Engineers][sne]!
 - 🌱 I’m currently learning [React, Node, AR]
