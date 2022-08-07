@@ -10,10 +10,10 @@
 
 
 ## My Other Profiles:
-- LinkedIn [linkedIn]
-- LeetCode [leetcode]
-- Fiverr [fiverr]
-- HackerRank [hackerrank]
+- [LinkedIn][linkedIn]
+- [LeetCode][leetcode]
+- [Fiverr][fiverr]
+- [HackerRank] [hackerrank]
 
 ### Connect with me:
 
