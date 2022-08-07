@@ -10,7 +10,6 @@
 
 
 ## My Other Profiles:
-- [LinkedIn][linkedIn]
 - [LeetCode][leetcode]
 - [Fiverr][fiverr]
 - [HackerRank][hackerrank]
