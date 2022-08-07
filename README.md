@@ -13,7 +13,7 @@
 - [LinkedIn][linkedIn]
 - [LeetCode][leetcode]
 - [Fiverr][fiverr]
-- [HackerRank] [hackerrank]
+- [HackerRank][hackerrank]
 
 ### Connect with me:
 
