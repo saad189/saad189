@@ -8,6 +8,13 @@
 - 🥅 2022 Goals: Read 7 Books!
 - ⚡ Fun fact: I love video games, and I almost :( a GM in Overwatch!
 
+
+## My Other Profiles:
+- LinkedIn [linkedIn]
+- LeetCode [leetcode]
+- Fiverr [fiverr]
+- HackerRank [hackerrank]
+
 ### Connect with me:
 
 [<img align="left" alt="SnE | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -46,3 +53,8 @@
 [instagram]: https://www.instagram.com/saad18910/
 [linkedin]: https://www.linkedin.com/in/saad-ahmed-907988181/
 [sne]: https://scientistsandengineers.com
+[fiverr]: https://www.fiverr.com/saad189
+[leetcode]: https://leetcode.com/saad189/
+[linkedIn]: https://www.linkedin.com/in/saad-ahmed-907988181/
+[hackerrank]: https://www.hackerrank.com/saad18910
+
