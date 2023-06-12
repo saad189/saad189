@@ -51,7 +51,7 @@
 [youtube]: https://www.youtube.com/channel/UC5G6kQq4KUmPa3Pjvkh_8Lw
 [instagram]: https://www.instagram.com/saad18910/
 [linkedin]: https://www.linkedin.com/in/saad-ahmed-907988181/
-[sne]: https://scientistsandengineers.com
+[sne]: https://scientistsandengineers-243ca.web.app
 [fiverr]: https://www.fiverr.com/saad189
 [leetcode]: https://leetcode.com/saad189/
 [linkedIn]: https://www.linkedin.com/in/saad-ahmed-907988181/
