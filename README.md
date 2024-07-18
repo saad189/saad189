@@ -5,7 +5,7 @@
 - 🔭 I am currently working on a personal project: [Scientists&Engineers][sne]!
 - 🌱 I’m currently learning [React, Node, AR]
 - 👯 I’m looking to transition to Augmented Reality, as it is direct translation of Video Games into Reality
-- 🥅 2022 Goals: Read 7 Books!
+- 🥅 2024 Goals: Read 7 Books!
 - ⚡ Fun fact: I love video games, and I almost :( a GM in Overwatch!
 
 
