@@ -4,12 +4,13 @@
 
 - 🔭 I am currently working on a personal project: [Scientists&Engineers][sne]!
 - 🌱 I’m currently learning [React, Node, AR]
-- 👯 I’m looking to transition to Augmented Reality, as it is direct translation of Video Games into Reality
+- 👯 I’m looking to transition to Augmented Reality, as it is a direct translation of Video Games into Reality
 - 🥅 2024 Goals: Read 7 Books!
 - ⚡ Fun fact: I love video games, and I almost :( a GM in Overwatch!
 
 
 ## My Other Profiles:
+- [LinkedIn][linkedin]
 - [LeetCode][leetcode]
 - [Fiverr][fiverr]
 - [HackerRank][hackerrank]
